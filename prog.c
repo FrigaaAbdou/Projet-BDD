@@ -12,7 +12,7 @@
  /* ------------------ MySQL Connection Info ------------------ */
  #define DB_HOST     "localhost"
  #define DB_USER     "root"
- #define DB_PASS     "password"
+ #define DB_PASS     "abdoudz1"
  #define DB_NAME     "airqualitydb"
  #define DB_PORT     3306
  
